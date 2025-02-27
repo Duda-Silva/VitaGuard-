@@ -31,4 +31,4 @@ Compile o código-fonte do projeto.
 - O sistema iniciará automaticamente após o upload do código.
 - O joystick analógico detectará quedas, o botão A acionará o alarme de emergência, a matriz de LEDs indicará a atividade, o microfone monitorará o ruído e os alertas serão exibidos no LED RGB, buzzer e display OLED.
 ## Video
-video[]
+video: [video de apresentação](https://youtu.be/7kPz9AFzF5s)
